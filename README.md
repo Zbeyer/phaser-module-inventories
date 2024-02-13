@@ -1,6 +1,6 @@
 # Phaser Module
 
-This file is indended to live inside the `project/module` directory of a phaser game.
+This repo is indended to live inside the `project/module` directory of a phaser game.
 
 # ![folder-structure](./folder-structure.jpg)
 
